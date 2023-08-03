@@ -1,0 +1,57 @@
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\bin\Debug\net6.0-windows\Login.exe
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\bin\Debug\net6.0-windows\Login.deps.json
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\bin\Debug\net6.0-windows\Login.dll
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\bin\Debug\net6.0-windows\Login.pdb
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.vbproj.AssemblyReference.cache
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.Resources.resources
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.vbproj.GenerateResource.cache
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.vb
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.vbproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.dll
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\refint\Login.dll
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.pdb
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\ref\Login.dll
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.Inicio.resources
+D:\Escritorio\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.Login.resources
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\bin\Debug\net6.0-windows\Login.exe
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\bin\Debug\net6.0-windows\Login.deps.json
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\bin\Debug\net6.0-windows\Login.dll
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\bin\Debug\net6.0-windows\Login.pdb
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.vbproj.AssemblyReference.cache
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.Inicio.resources
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.Login.resources
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.Resources.resources
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.vbproj.GenerateResource.cache
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.vb
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.vbproj.CoreCompileInputs.cache
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.dll
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\refint\Login.dll
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.pdb
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+D:\Escritorio\proyectos\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login\Login\obj\Debug\net6.0-windows\ref\Login.dll
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\bin\Debug\net6.0-windows\Login.exe
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\bin\Debug\net6.0-windows\Login.deps.json
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\bin\Debug\net6.0-windows\Login.dll
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\bin\Debug\net6.0-windows\Login.pdb
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.vbproj.AssemblyReference.cache
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.Inicio.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.Login.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.Resources.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.vbproj.GenerateResource.cache
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.vb
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.vbproj.CoreCompileInputs.cache
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.dll
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\refint\Login.dll
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.pdb
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Login-VB\Login\obj\Debug\net6.0-windows\ref\Login.dll

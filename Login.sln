@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Login", "Login\Login.vbproj", "{D431927B-7A73-4354-A433-3EF56310B84A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ESTUDIA FACILL", "..\..\..\..\Descarga\estudia facil\estudiarfacil\ESTUDIA FACILL\ESTUDIA FACILL.vbproj", "{67F7B270-A59C-4654-AD3F-F2D8ED9295FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D431927B-7A73-4354-A433-3EF56310B84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D431927B-7A73-4354-A433-3EF56310B84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D431927B-7A73-4354-A433-3EF56310B84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D431927B-7A73-4354-A433-3EF56310B84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F7B270-A59C-4654-AD3F-F2D8ED9295FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F7B270-A59C-4654-AD3F-F2D8ED9295FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F7B270-A59C-4654-AD3F-F2D8ED9295FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F7B270-A59C-4654-AD3F-F2D8ED9295FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18E2B792-C71E-4A48-B70C-DF6AF9364B04}
+	EndGlobalSection
+EndGlobal
